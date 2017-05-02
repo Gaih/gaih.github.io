@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-02T15:29:18.241Z</updated>
+  <updated>2017-05-02T15:31:25.775Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://yoursite.com/2017/05/02/%E6%83%B3%E5%81%9A%E4%B8%80%E4%B8%AAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E8%80%85/"/>
     <id>http://yoursite.com/2017/05/02/想做一个Go语言开发者/</id>
     <published>2017-05-02T15:00:49.000Z</published>
-    <updated>2017-05-02T15:29:18.241Z</updated>
+    <updated>2017-05-02T15:31:25.775Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="想做一个Go语言开发者"><a href="#想做一个Go语言开发者" class="headerlink" title="想做一个Go语言开发者"></a>想做一个Go语言开发者</h2><p>我想从头学一门新的语言，纠结分析了几天之后，我决定学习Go语言，其实作为一名三流的程序员，我想法也挺简单的</p>
+    <content type="html"><![CDATA[<p>我想从头学一门新的语言，纠结分析了几天之后，我决定学习Go语言，其实作为一名三流的程序员，我想法也挺简单的</p>
 <blockquote>
 <p>我想从一个三流的程序员变成一个能够在某一个领域稍微厉害点的人</p>
 </blockquote>
@@ -33,38 +33,18 @@
 <p>我想学go语言的主要原因也是很简单的，因为在Androi火的时候我去学Android，php和前端火的时候我去学前端和php。结果却一样都没能抓住，现在想重新起来学虽然也是一个方式，毕竟如果现在继续做Android或者php之类的对我来说可能成本以及困难度会更简单一点，不过我还是想从头开始，以及我想赌一把，试一下能不能抓住对我来说这个很是珍贵的机会。</p>
 <p>以后会在这个博客发表和Go语言以及数据结构算法相关的技术文章，不出意外的话，会在简书同步发表。</p>
 <p>特别喜欢罗大佑在《将进酒》里面的一句歌词：</p>
-<h3 id="我未曾珍惜的，我不再拥有。"><a href="#我未曾珍惜的，我不再拥有。" class="headerlink" title="我未曾珍惜的，我不再拥有。"></a>我未曾珍惜的，我不再拥有。</h3>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;想做一个Go语言开发者&quot;&gt;&lt;a href=&quot;#想做一个Go语言开发者&quot; class=&quot;headerlink&quot; title=&quot;想做一个Go语言开发者&quot;&gt;&lt;/a&gt;想做一个Go语言开发者&lt;/h2&gt;&lt;p&gt;我想从头学一门新的语言，纠结分析了几天之后，我决定学习Go语言，其实
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/05/02/hello-world/"/>
-    <id>http://yoursite.com/2017/05/02/hello-world/</id>
-    <published>2017-05-02T07:12:45.776Z</published>
-    <updated>2017-05-02T07:12:45.831Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+<blockquote>
+<p>我未曾珍惜的，我不再拥有。</p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;我想从头学一门新的语言，纠结分析了几天之后，我决定学习Go语言，其实作为一名三流的程序员，我想法也挺简单的&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我想从一个三流的程序员变成一个能够在某一个领域稍微厉害点的人&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;从毕业之前想要学习An
     
     </summary>
     
