@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-02T07:12:45.831Z</updated>
+  <updated>2017-05-02T15:29:18.241Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>想做一个Go语言开发者</title>
+    <link href="http://yoursite.com/2017/05/02/%E6%83%B3%E5%81%9A%E4%B8%80%E4%B8%AAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E8%80%85/"/>
+    <id>http://yoursite.com/2017/05/02/想做一个Go语言开发者/</id>
+    <published>2017-05-02T15:00:49.000Z</published>
+    <updated>2017-05-02T15:29:18.241Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="想做一个Go语言开发者"><a href="#想做一个Go语言开发者" class="headerlink" title="想做一个Go语言开发者"></a>想做一个Go语言开发者</h2><p>我想从头学一门新的语言，纠结分析了几天之后，我决定学习Go语言，其实作为一名三流的程序员，我想法也挺简单的</p>
+<blockquote>
+<p>我想从一个三流的程序员变成一个能够在某一个领域稍微厉害点的人</p>
+</blockquote>
+<p>从毕业之前想要学习Android，却糊里糊涂的用C#做的毕设，之后然后进入了一家公司本来想好的做Android开发，却稀里糊涂的做了SDK接入，还学习了前端和php，却没有一样能抓得住好好从头学习的。到现在毕业快一年了，还是什么都不精通，虽然可能说起来自己什么都懂之类的。但自己也清楚不过是自己骗自己的把戏。</p>
+<blockquote>
+<p>毕竟什么都懂却没有一样精通的在我看来是一件很可耻的事情。</p>
+</blockquote>
+<p>我想学go语言的主要原因也是很简单的，因为在Androi火的时候我去学Android，php和前端火的时候我去学前端和php。结果却一样都没能抓住，现在想重新起来学虽然也是一个方式，毕竟如果现在继续做Android或者php之类的对我来说可能成本以及困难度会更简单一点，不过我还是想从头开始，以及我想赌一把，试一下能不能抓住对我来说这个很是珍贵的机会。</p>
+<p>以后会在这个博客发表和Go语言以及数据结构算法相关的技术文章，不出意外的话，会在简书同步发表。</p>
+<p>特别喜欢罗大佑在《将进酒》里面的一句歌词：</p>
+<h3 id="我未曾珍惜的，我不再拥有。"><a href="#我未曾珍惜的，我不再拥有。" class="headerlink" title="我未曾珍惜的，我不再拥有。"></a>我未曾珍惜的，我不再拥有。</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;想做一个Go语言开发者&quot;&gt;&lt;a href=&quot;#想做一个Go语言开发者&quot; class=&quot;headerlink&quot; title=&quot;想做一个Go语言开发者&quot;&gt;&lt;/a&gt;想做一个Go语言开发者&lt;/h2&gt;&lt;p&gt;我想从头学一门新的语言，纠结分析了几天之后，我决定学习Go语言，其实
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
