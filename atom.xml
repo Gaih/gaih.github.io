@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://github.com/gaih/"/>
   <updated>2017-05-09T08:00:28.251Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://github.com/gaih/</id>
   
   <author>
     <name>Gaih</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Go环境搭建</title>
-    <link href="http://yoursite.com/2017/05/09/Go%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
-    <id>http://yoursite.com/2017/05/09/Go环境搭建/</id>
+    <link href="https://github.com/gaih/2017/05/09/Go%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    <id>https://github.com/gaih/2017/05/09/Go环境搭建/</id>
     <published>2017-05-09T07:59:35.000Z</published>
     <updated>2017-05-09T08:00:28.251Z</updated>
     
@@ -72,8 +72,8 @@
   
   <entry>
     <title>想做一个Go语言开发者</title>
-    <link href="http://yoursite.com/2017/05/02/%E6%83%B3%E5%81%9A%E4%B8%80%E4%B8%AAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E8%80%85/"/>
-    <id>http://yoursite.com/2017/05/02/想做一个Go语言开发者/</id>
+    <link href="https://github.com/gaih/2017/05/02/%E6%83%B3%E5%81%9A%E4%B8%80%E4%B8%AAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E8%80%85/"/>
+    <id>https://github.com/gaih/2017/05/02/想做一个Go语言开发者/</id>
     <published>2017-05-02T15:00:49.000Z</published>
     <updated>2017-05-02T15:31:25.775Z</updated>
     
